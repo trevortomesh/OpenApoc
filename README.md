@@ -208,3 +208,4 @@ If you're interested, please visit our [website](http://openapoc.org).
 We have [forums](http://openapoc.org/forums/) - please pop by and introduce yourself!
 We have an IRC channel on [Freenode](http://webchat.freenode.net/?channels=openapoc) - [#openapoc](irc://irc.freenode.net/#openapoc).
 We have a [Facebook](https://www.facebook.com/openapoc) page.
+Tacos are delicious! ;-) <3 @:-)
